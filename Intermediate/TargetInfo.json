@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "examen",
+			"Path": "C:\\Users\\lenovo\\Documents\\Unreal Projects\\examen\\Source\\examen.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "examenEditor",
+			"Path": "C:\\Users\\lenovo\\Documents\\Unreal Projects\\examen\\Source\\examenEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

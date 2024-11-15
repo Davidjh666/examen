@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\examen.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{6CD9C7FC-3DF6-411B-9EA1-77B57ADA9436}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\examen.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\examenEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1BA927A0-8E4E-4A81-9F4E-E1BB01E30562}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\examen">
+      <UniqueIdentifier>{5FB0A344-2515-4B6F-8C3A-025F034D989D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\examen\ArmaDecorator.cpp">
+      <Filter>Source\examen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\examen\ArmaDecorator.h">
+      <Filter>Source\examen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\examen\ArmaduraDecorator.cpp">
+      <Filter>Source\examen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\examen\ArmaduraDecorator.h">
+      <Filter>Source\examen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\examen\Decorator.cpp">
+      <Filter>Source\examen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\examen\Decorator.h">
+      <Filter>Source\examen</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\examen\examen.Build.cs">
+      <Filter>Source\examen</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\examen\examen.cpp">
+      <Filter>Source\examen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\examen\examen.h">
+      <Filter>Source\examen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\examen\examenCharacter.cpp">
+      <Filter>Source\examen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\examen\examenCharacter.h">
+      <Filter>Source\examen</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\examen\examenGameMode.cpp">
+      <Filter>Source\examen</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\examen\examenGameMode.h">
+      <Filter>Source\examen</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
